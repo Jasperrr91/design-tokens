@@ -1,0 +1,27 @@
+{
+  "card": {
+    "value": "24px",
+    "type": "borderRadius",
+    "description": "Card border"
+  },
+  "borderWidth": {
+    "card": {
+      "value": "1",
+      "type": "borderWidth"
+    }
+  },
+  "colors": {
+    "background": {
+      "card": {
+        "value": "#ffffff",
+        "type": "color"
+      }
+    },
+    "border": {
+      "card": {
+        "value": "#130A2E",
+        "type": "color"
+      }
+    }
+  }
+}
